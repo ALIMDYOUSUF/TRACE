@@ -46,7 +46,6 @@ python3 test.py
 ```
 We also provide pre-trained models for testing. ([Google drive](https://drive.google.com/drive/folders/1GgCfC1ITAnRRw6RScGc7c2YUg5Ccbdba?usp=sharing))
 
-
-
-
 <img width="1536" height="1024" alt="Fig 1" src="https://github.com/user-attachments/assets/78c56ce1-2960-4073-a7f7-aec5996bce0c" />
+
+<img width="1402" height="1122" alt="Fig 6" src="https://github.com/user-attachments/assets/d3e9cc20-3640-4fba-82ae-fa23c6364f58" />
